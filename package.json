@@ -1,0 +1,21 @@
+{
+  "name": "express-dummy-project",
+  "version": "1.0.0",
+  "description": "A starter dummy project built with Node.js and Express.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "starter",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
